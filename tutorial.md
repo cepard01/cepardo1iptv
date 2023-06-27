@@ -3,5 +3,5 @@
 https://cdn01.novelasflix.top/NOV/AIRJ/AIRJzJ8ZbkUekz24eeeVxdBUi0NUMERODOEPISODIO.mp4
 NO NUMERO DO EPISODIO COLOQUE O NUMERO DO EPISODIO DESEJADO DA NOVELA
 #### EXEMPLO:
-- https://cdn01.novelasflix.top/NOV/AIRJ/AIRJzJ8ZbkUekz24eeeVxdBUi0 **40**.mp4
+- https://cdn01.novelasflix.top/NOV/AIRJ/AIRJzJ8ZbkUekz24eeeVxdBUi040.mp4
 - https://cdn01.novelasflix.top/NOV/AIRJ/AIRJzJ8ZbkUekz24eeeVxdBUi0**24**.mp4
