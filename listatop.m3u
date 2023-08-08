@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/vOSjlbtloQWjxRGEaVLNKKwbxHK.jpg" group-title="SERIE-DE_VOLTA_AOS_15", Ep 1 Tp 2
+https://cdnth.novelasflix.top/SER/DV15/DV152x01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/vOSjlbtloQWjxRGEaVLNKKwbxHK.jpg" group-title="SERIE-DE_VOLTA_AOS_15", Ep 2 Tp 2
+https://cdnth.novelasflix.top/SER/DV15/DV152x02.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/vOSjlbtloQWjxRGEaVLNKKwbxHK.jpg" group-title="SERIE-DE_VOLTA_AOS_15", Ep 3 Tp 2
+https://cdnth.novelasflix.top/SER/DV15/DV152x03.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/vOSjlbtloQWjxRGEaVLNKKwbxHK.jpg" group-title="SERIE-DE_VOLTA_AOS_15", Ep 4 Tp 2
+https://cdnth.novelasflix.top/SER/DV15/DV152x04.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/vOSjlbtloQWjxRGEaVLNKKwbxHK.jpg" group-title="SERIE-DE_VOLTA_AOS_15", Ep 5 Tp 2
+https://cdnth.novelasflix.top/SER/DV15/DV152x05.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/vOSjlbtloQWjxRGEaVLNKKwbxHK.jpg" group-title="SERIE-DE_VOLTA_AOS_15", Ep 6 Tp 2
+https://cdnth.novelasflix.top/SER/DV15/DV152x06.mp4
+
 #EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/albuns/d/c/2/1/1827691687283892.jpg" group-title="SERIE-A_INFANCIA_DE_ROMEU_E_JULIETA", Capitulo 30
 https://cdn01.novelasflix.top/NOV/AIRJ/AIRJzJ8ZbkUekz24eeeVxdBUi030.mp4
 
